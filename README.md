@@ -1,5 +1,5 @@
 # True Caller Application
-This application is same as like true caller application.
+This application is same as true caller application.
 
 ## Features
 - MVVM
