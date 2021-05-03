@@ -8,5 +8,4 @@ This application is same as true caller application.
 - Room Database
 - Navigation Components
 - ViewBinding
-- Coroutine
-- 
+- Coroutine 
