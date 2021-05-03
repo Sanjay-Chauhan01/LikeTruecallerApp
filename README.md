@@ -2,7 +2,11 @@
 This application is same as true caller application.
 
 ## Features
-- MVVM
+- Kotlin
+- MVVM design pattern 
 - LiveData
 - Room Database
 - Navigation Components
+- ViewBinding
+- Coroutine
+- 
