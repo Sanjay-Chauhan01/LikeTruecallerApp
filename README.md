@@ -9,3 +9,6 @@ This application is same as true caller application.
 - Navigation Components
 - ViewBinding
 - Coroutine 
+- Background service
+- Broadcast Receiver
+- Call State Service
